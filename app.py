@@ -69,4 +69,4 @@ def predict():
         return render_template('result.html', lower_limit = my_prediction-10, upper_limit = my_prediction+5)
 
 if __name__ == '__main__':
-	app.run(debug=True)
+	app.run(debug=False)
