@@ -1,3 +1,5 @@
+streamlit==1.16.0
+streamlit-agraph==0.0.42
 flask==2.2.2
 sklearn
 scikit-learn
